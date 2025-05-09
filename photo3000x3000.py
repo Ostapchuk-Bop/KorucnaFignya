@@ -3,13 +3,12 @@ import os
 
 # Define input and output file paths
 input_files = [
-    r"C:\Users\Igor Nimec\Desktop\Enchanted_Sword_(item).webp",
-    r"C:\Users\Igor Nimec\Desktop\Star_Wrath.webp",
-    r"C:\Users\Igor Nimec\Desktop\Seedler.webp"
+    r"path to the image",
+    r"path to the image",
+    r"path to the image"
 ]
 
-# Set target size
-target_size = (3000, 3000)
+target_size = (3000, 3000) #image size in pixels
 
 # Resize and save images
 output_paths = []
